@@ -6,8 +6,7 @@ import {
     Card, CardImg, CardText, CardBody, Row, Col,
     ModalBody, Modal, ModalHeader, CardTitle, Breadcrumb, BreadcrumbItem, Button, Label
 } from 'reactstrap';
-import { Link } from 'react-router-dom';
-import { Control, LocalForm, Errors } from 'react-redux-form';
+import { Control, Form, Errors } from 'react-redux-form';
 
 const maxLength = (len) => (val) => !(val) || (val.length <= len)
 const minLength = (len) => (val) => (val) && (val.length >= len)
@@ -16,30 +15,22 @@ class CommentForm extends Component {
     constructor(props) {
         super(props);
 
-        this.state = {
-            isModalOpen: false
-        };
-        this.toggleModal = this.toggleModal.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
 
     }
 
-    toggleModal() {
-        this.setState({
-            isModalOpen: !this.state.isModalOpen
-        });
-    }
 
     handleSubmit(values) {
-        console.log("Current state is : " + JSON.stringify(values))
-        alert("Current state is : " + JSON.stringify(values))
+        this.props.addForm( values.name, values.telnum, values.price, values.description);
+        console.log("Current state is : "+JSON.stringify(values));
+        this.props.resetFeedbackForm()
     }
 
     render() {
         return (
             <div>
 
-                <LocalForm onSubmit={(values) => this.handleSubmit(values)}>
+                <Form model="feedback" onSubmit={(values) => this.handleSubmit(values)}>
 
 
 
@@ -62,8 +53,15 @@ class CommentForm extends Component {
                         />
                     </Col>
                     <Col className="form-group">
-                                <Label htmlFor="telnum">Price</Label>
+                                <Label htmlFor="telnum">Tel. no</Label>
                                     <Control.text model=".telnum" id="telnum" name="telnum"
+                                        placeholder="Tel. no"
+                                        className="form-control"
+                                         />
+                            </Col>
+                            <Col className="form-group">
+                                <Label htmlFor="price">Price</Label>
+                                    <Control.text model=".price" id="price" name="price"
                                         placeholder="Price"
                                         className="form-control"
                                          />
@@ -71,8 +69,8 @@ class CommentForm extends Component {
 
                     
                     <Col className="form-group">
-                        <Label htmlFor="comment" >Description</Label>
-                        <Control.textarea model=".comment" id="comment" name="comment"
+                        <Label htmlFor="description" >Description</Label>
+                        <Control.textarea model=".description" id="description" name="description"
                             rows="6"
                             className="form-control"
                         />
@@ -82,7 +80,7 @@ class CommentForm extends Component {
                             Submit
                                     </Button>
                     </Col>
-                </LocalForm>
+                </Form>
 
             </div>
 
@@ -91,7 +89,7 @@ class CommentForm extends Component {
 
 }
 
-function Employer() {
+function Employer(props) {
     const [Job, setJob] = useState('');
     const [Region, setRegion] = useState('');
     const handleSelect = (e) => {
@@ -131,7 +129,7 @@ function Employer() {
             <h4>You selected {Region}</h4>
 
             <h1>Market Price : </h1>
-            <CommentForm />
+            <CommentForm resetFeedbackForm = {props.resetFeedbackForm} addForm = {props.addForm} />
         </div>
 
     );

@@ -5,7 +5,16 @@ import Worker from './WorkerComponent';
 import Home from './HomeComponent';
 import {TransitionGroup, CSSTransition} from 'react-transition-group';
 import Header from './Header';
+import {connect} from 'react-redux';
+import {addForm} from '../redux/ActionCreators';
+import {actions} from 'react-redux-form';
 
+
+const mapDispatchToProps = dispatch => ({
+    resetFeedbackForm : () => {dispatch(actions.reset('feedback'))},
+    addForm: (Id, name, telnum, price, description) => dispatch(addForm(Id, name, telnum, price, description))
+  
+  });
 
 class Main extends Component{
 
@@ -17,7 +26,7 @@ class Main extends Component{
                     <CSSTransition key={this.props.location.key} classNames="page" timeout={300}>
                         <Switch>
                             <Route path="/home" component={Home} />
-                            <Route exact path="/employer" component={() => <Employer />} />
+                            <Route exact path="/employer" component={() => <Employer resetFeedbackForm={this.props.resetFeedbackForm} addForm = {this.props.addForm} />} />
                             <Route exact path="/worker" component={() => <Worker />} />
                             <Redirect to="/home/" />
                         </Switch>
@@ -28,4 +37,4 @@ class Main extends Component{
     }
 }
 
-export default withRouter(Main);
+export default withRouter(connect(null, mapDispatchToProps)(Main));
