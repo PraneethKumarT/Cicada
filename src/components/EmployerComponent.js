@@ -1,4 +1,4 @@
-import React, { Component, useState } from 'react';
+import React, { Component, useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import DropdownButton from 'react-bootstrap/DropdownButton';
 import Dropdown from 'react-bootstrap/Dropdown'
@@ -7,6 +7,7 @@ import {
     ModalBody, Modal, ModalHeader, CardTitle, Breadcrumb, BreadcrumbItem, Button, Label
 } from 'reactstrap';
 import { Control, Form, Errors } from 'react-redux-form';
+import dbdata from './data';
 
 const maxLength = (len) => (val) => !(val) || (val.length <= len)
 const minLength = (len) => (val) => (val) && (val.length >= len)
@@ -94,31 +95,65 @@ function Employer(props) {
     const [Region, setRegion] = useState('');
     const handleSelect = (e) => {
         console.log(e);
-        setJob(e)
+        setRegion(e);
+        
     }
     const handleSelect2 = (e) => {
         console.log(e);
-        setRegion(e)
+        setJob(e)
     }
+    
+
+    const [regions, setRegions]=useState([]);
+    const [regionInfo, setRegionInfo]=useState([]);
+
+    useEffect(() => {
+        
+        const states = dbdata.map((state) => ({
+            name: state.stateName,
+            value: state.stateID
+        }));
+        setRegions(states);
+        }, []); 
+
+    const onRegionChange = async (event) => {
+            const stateID = event.value;
+            setRegion(stateID);
+
+            const region = dbdata.find(region => region.stateId === stateID);
+            setRegion(stateID);
+            setRegionInfo(region.stateData);
+
+
+    }
+
+
+
+
+
     return (
         <div className="container">
             <h1></h1>
             <DropdownButton
                 alignRight
-                title="Job"
+                title="Region"
                 id="dropdown-menu-align-right"
                 onSelect={handleSelect}
             >
-                <Dropdown.Item eventKey="Carpenter">Carpenter</Dropdown.Item>
-                <Dropdown.Item eventKey="Mechanic">Mechanic</Dropdown.Item>
-                <Dropdown.Item eventKey="Goldsmith">Goldsmith</Dropdown.Item>
+                {
+                    regions.map(region => (
+                    
+                      <Dropdown.Item eventKey={region.value}>{region.name}</Dropdown.Item>
+                    ))
+                }
+                
             </DropdownButton>
-            <h4>You selected {Job}</h4>
+            <h4>You selected {Region}</h4>
 
 
             <DropdownButton
                 alignRight
-                title="State"
+                title="Job"
                 id="dropdown-menu-align-right"
                 onSelect={handleSelect2}
             >
@@ -126,7 +161,7 @@ function Employer(props) {
                 <Dropdown.Item eventKey="Mechanic">Mechanic</Dropdown.Item>
                 <Dropdown.Item eventKey="Goldsmith">Goldsmith</Dropdown.Item>
             </DropdownButton>
-            <h4>You selected {Region}</h4>
+            <h4>You selected {Job}</h4>
 
             <h1>Market Price : </h1>
             <CommentForm resetFeedbackForm = {props.resetFeedbackForm} addForm = {props.addForm} />

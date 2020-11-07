@@ -1,0 +1,4412 @@
+[
+          {
+            "stateName": "Andaman and Nicobar Islands",
+            "stateID": "AN",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "16276"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "14066"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "16276"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "14066"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "14066"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "14066"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "16276"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "14066"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "12584"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "16276"
+              }
+            ]
+          },
+          {
+            "stateName": "Andhra Pradesh",
+            "stateID": "AP",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "9415.2"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "9415.2"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "9415.2"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "9601.2"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "9601.2"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "9415.2"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "9415.2"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "9415.2"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "9415.2"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "9415.2"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10235.2"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9817.2"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10235.2"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9817.2"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9817.2"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9817.2"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10235.2"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9817.2"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "9601.2"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10235.2"
+              }
+            ]
+          },
+          {
+            "stateName": "Arunachal Pradesh",
+            "stateID": "AR",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "6000"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "6600"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "6600"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "6600"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "6600"
+              }
+            ]
+          },
+          {
+            "stateName": "Assam",
+            "stateID": "AS",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8471.4"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "12354.6"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9883.6"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "12354.6"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9883.6"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9883.6"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9883.6"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "12354.6"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9883.6"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "9883.6"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "12354.6"
+              }
+            ]
+          },
+          {
+            "stateName": "Bihar",
+            "stateID": "BR",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "7592"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "8363"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "7904"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "8363"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "7904"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "7904"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "7904"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "8363"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "7904"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "7904"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "8363"
+              }
+            ]
+          },
+          {
+            "stateName": "Chandigarh",
+            "stateID": "CH",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "10425"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "10425"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "10425"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "10575"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "10575"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "10425"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "10425"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "10425"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "10425"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "10425"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10875"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "10675"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10875"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "10675"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "10675"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "10675"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10875"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "10675"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "10675"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10875"
+              }
+            ]
+          },
+          {
+            "stateName": "Chhattisgarh",
+            "stateID": "CT",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "9220"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "9220"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "9220"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "9480"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "9480"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "9220"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "9220"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "9220"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "9220"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "9220"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10390"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "10130"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10390"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "10130"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "10130"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "10130"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10390"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "10130"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "9480"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10390"
+              }
+            ]
+          },
+          {
+            "stateName": "Dadra and Nagar Haveli",
+            "stateID": "DN",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "8853"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "8853"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "8853"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "8853"
+              }
+            ]
+          },
+          {
+            "stateName": "Daman and Diu",
+            "stateID": "DD",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8437"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "8853"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "8853"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "8853"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "8645"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "8853"
+              }
+            ]
+          },
+          {
+            "stateName": "Delhi",
+            "stateID": "DL",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "14468"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "14468"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "14468"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "15920"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "15920"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "14468"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "14468"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "14468"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "14468"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "14468"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "17508"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "15920"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "17508"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "15920"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "15920"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "15920"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "17508"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "15920"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "15920"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "17508"
+              }
+            ]
+          },
+          {
+            "stateName": "Goa",
+            "stateID": "GA",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "9334"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "9334"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "9334"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "10790"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "10790"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "9334"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "9334"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "9334"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "9334"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "9334"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "12194"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "10920"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "12194"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "10920"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "10920"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "10920"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "12194"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "10920"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "10790"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "12194"
+              }
+            ]
+          },
+          {
+            "stateName": "Gujarat",
+            "stateID": "GJ",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "8845.2"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "8637.2"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "8845.2"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "8637.2"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "8637.2"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "8637.2"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "8845.2"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "8637.2"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "8429.2"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "8845.2"
+              }
+            ]
+          },
+          {
+            "stateName": "Haryana",
+            "stateID": "HR",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "9319.12"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "9319.12"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "9319.12"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "9785.05"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "9785.05"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "9319.12"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "9319.12"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "9319.12"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "9319.12"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "9319.12"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10274.29"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9785.05"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10274.29"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9785.05"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9785.05"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9785.05"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10274.29"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9785.05"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "9785.05"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10274.29"
+              }
+            ]
+          },
+          {
+            "stateName": "Himachal Pradesh",
+            "stateID": "HP",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8250"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8250"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8250"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8717"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8717"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8250"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8250"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8250"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8250"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8250"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "9575"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "8717"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "9964"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9575"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "8717"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "8717"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "9575"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "8717"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "8717"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "9575"
+              }
+            ]
+          },
+          {
+            "stateName": "Jammu and Kashmir",
+            "stateID": "JK",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "8450"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "8450"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "8450"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "8450"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "8450"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "8450"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "8450"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "8450"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "8450"
+              }
+            ]
+          },
+          {
+            "stateName": "Jharkhand",
+            "stateID": "JS",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "7690.8"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10621"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "8057.14"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10621"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "8057.14"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "8057.14"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "8057.14"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10621"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "8057.14"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "8057.14"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10621"
+              }
+            ]
+          },
+          {
+            "stateName": "Karnataka",
+            "stateID": "KA",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "12882.63"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "12882.63"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "12882.63"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "14041.41"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "14041.41"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "12882.63"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "12882.63"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "12882.63"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "12882.63"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "12882.63"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "15316.07"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "14041.41"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "15316.07"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "14041.41"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "14041.41"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "14041.41"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "15316.07"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "14041.41"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "14041.41"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "15316.07"
+              }
+            ]
+          },
+          {
+            "stateName": "Kerala",
+            "stateID": "KL",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "11678"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "11678"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "11678"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "11888"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "11888"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "11678"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "11678"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "11678"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "11678"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "11678"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "12308"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "12098"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "12308"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "12098"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "12098"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "12098"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "12308"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "12098"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "11888"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "12308"
+              }
+            ]
+          },
+          {
+            "stateName": "Madhya Pradesh",
+            "stateID": "MP",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10635"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9257"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10635"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9257"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9257"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9257"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10635"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9257"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "8400"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10635"
+              }
+            ]
+          },
+          {
+            "stateName": "Maharashtra",
+            "stateID": "MH",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "11792"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "11196"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "11792"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "11196"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "11196"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "11196"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "11792"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "11196"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "10957"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "11792"
+              }
+            ]
+          },
+          {
+            "stateName": "Manipur",
+            "stateID": "MN",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "8190"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "7440"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "8190"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "7440"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "7440"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "7440"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "8190"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "7440"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "6750"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "8190"
+              }
+            ]
+          },
+          {
+            "stateName": "Meghalaya",
+            "stateID": "ML",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "12840"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "11490"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "12840"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "11490"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "11490"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "11490"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "12840"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "11490"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "10140"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "12840"
+              }
+            ]
+          },
+          {
+            "stateName": "Mizoram",
+            "stateID": "MZ",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "11100"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "11100"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "11100"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "8100"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "11100"
+              }
+            ]
+          },
+          {
+            "stateName": "Nagaland",
+            "stateID": "NL",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "6300"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "5280"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "6300"
+              }
+            ]
+          },
+          {
+            "stateName": "Odisha",
+            "stateID": "OR",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "9241.5"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "11941.5"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "10441.5"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "11941.5"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "10441.5"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "10441.5"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "10441.5"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "11941.5"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "10441.5"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "10441.5"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "11941.5"
+              }
+            ]
+          },
+          {
+            "stateName": "Puducherry",
+            "stateID": "PY",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "6950"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "6950"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "6950"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "6950"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "7666"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "6950"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "6950"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "6950"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "6950"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "6950"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "7775"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "7666"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "7775"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "7666"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "7666"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "7666"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "7775"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "7666"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "7666"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "7775"
+              }
+            ]
+          },
+          {
+            "stateName": "Punjab",
+            "stateID": "PB",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8776.83"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10453.83"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9556.83"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10453.83"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9556.83"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9556.83"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9556.83"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10453.83"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9556.83"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "9556.83"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10453.83"
+              }
+            ]
+          },
+          {
+            "stateName": "Rajasthan",
+            "stateID": "RJ",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "5850"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "6474"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "6162"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "6474"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "6162"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "6162"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "6162"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "6474"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "6162"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "6162"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "6474"
+              }
+            ]
+          },
+          {
+            "stateName": "Sikkim",
+            "stateID": "SK",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "9000"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10050"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9600"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10050"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9600"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9600"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9600"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10050"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9600"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "9600"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10050"
+              }
+            ]
+          },
+          {
+            "stateName": "Tamin Nadu",
+            "stateID": "TN",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "9381"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "9381"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "9381"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "9442"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "9442"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "9381"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "9381"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "9381"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "9381"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "9381"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "9533"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9492"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "9533"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9492"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9492"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9492"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "9533"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9492"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "9442"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "9533"
+              }
+            ]
+          },
+          {
+            "stateName": "Telangana",
+            "stateID": "TG",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "9946.4"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "9946.4"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "9946.4"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "10132.4"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "9946.4"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "9946.4"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "9946.4"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "9946.4"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "9946.4"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "9946.4"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10132.4"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "10348.4"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10766.4"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "10348.4"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "10348.4"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "10348.4"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10766.4"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "10348.4"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "10348.4"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "9946.4"
+              }
+            ]
+          },
+          {
+            "stateName": "Tripura",
+            "stateID": "TR",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "7263"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "6495"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "7263"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "6495"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "6495"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "6495"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "7263"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "6495"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "5919"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "7263"
+              }
+            ]
+          },
+          {
+            "stateName": "Uttarakhand",
+            "stateID": "UK",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8891"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10078"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9484"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10078"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9484"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9484"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9484"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10078"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9484"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "9484"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10078"
+              }
+            ]
+          },
+          {
+            "stateName": "Uttar Pradesh",
+            "stateID": "UP",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "9634"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9634"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "9634"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9634"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9634"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9634"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "9634"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9634"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "8758"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "9634"
+              }
+            ]
+          },
+          {
+            "stateName": "West Bengal",
+            "stateID": "WB",
+            "stateData": [
+              {
+                "Job ID": "1",
+                "Class of Employment": "Unskilled",
+                "Designation": "Security Guard/Chowkidar",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "2",
+                "Class of Employment": "Unskilled",
+                "Designation": "Poen/Office boy",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "3",
+                "Class of Employment": "Unskilled",
+                "Designation": "Mazdoor/Construction Worker",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "4",
+                "Class of Employment": "Unskilled",
+                "Designation": "Ironer/Laundryman",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "5",
+                "Class of Employment": "Unskilled",
+                "Designation": "Weighman",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "6",
+                "Class of Employment": "Unskilled",
+                "Designation": "Porter",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "7",
+                "Class of Employment": "Unskilled",
+                "Designation": "Cleaner",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "8",
+                "Class of Employment": "Unskilled",
+                "Designation": "Bicycle Fitter",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "9",
+                "Class of Employment": "Unskilled",
+                "Designation": "Messenger",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "10",
+                "Class of Employment": "Unskilled",
+                "Designation": "Newspaper delivery boy",
+                "Min Wage per Month": "8550"
+              },
+              {
+                "Job ID": "11",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Dhobi/Washerman",
+                "Min Wage per Month": "10347"
+              },
+              {
+                "Job ID": "12",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Petrol Pump Operator",
+                "Min Wage per Month": "9406"
+              },
+              {
+                "Job ID": "13",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Electrician",
+                "Min Wage per Month": "10347"
+              },
+              {
+                "Job ID": "14",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Blacksmith",
+                "Min Wage per Month": "9406"
+              },
+              {
+                "Job ID": "15",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Carpenter",
+                "Min Wage per Month": "9406"
+              },
+              {
+                "Job ID": "16",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Painter",
+                "Min Wage per Month": "9406"
+              },
+              {
+                "Job ID": "17",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Typist",
+                "Min Wage per Month": "10347"
+              },
+              {
+                "Job ID": "18",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Mechanic",
+                "Min Wage per Month": "9406"
+              },
+              {
+                "Job ID": "19",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Cook",
+                "Min Wage per Month": "9406"
+              },
+              {
+                "Job ID": "20",
+                "Class of Employment": "Semi-Skilled",
+                "Designation": "Hairdresser",
+                "Min Wage per Month": "10347"
+              }
+            ]
+          }
+        ]
