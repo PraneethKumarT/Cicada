@@ -1,5 +1,6 @@
 {
   "name": "cicada",
+  "homepage": "http://ieeeuvce.s3-website.ap-south-1.amazonaws.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
