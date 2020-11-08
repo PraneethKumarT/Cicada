@@ -139,14 +139,6 @@ function Worker(props) {
             <hr/>
                 <h3>Available Employers: </h3>
                 {contractors}
-                <Card>
-                 <CardBody className="ml-5">
-                    <CardTitle>Name : Suresh</CardTitle>
-                    <p>Phone Number : 9874563268</p>
-                    <p>Price offered : 980</p>
-                    <p>Job and State required : Carpenter, Karnataka</p>
-                 </CardBody>
-            </Card>   
             </div>
         </div>
  
