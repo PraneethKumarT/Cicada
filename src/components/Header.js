@@ -63,11 +63,7 @@ class Header extends Component{
                              </NavItem>
                          </Nav>
                          <Nav className = "ml-auto" navbar>
-                             <NavItem>
-                                 <Button onClick = {this.toggleModal}>
-                                     <span className = "fa fa-sign-in fa-lg"></span>Login
-                                 </Button>
-                             </NavItem>
+                             
                          </Nav>
                          </Collapse>
                     </div>
@@ -76,8 +72,8 @@ class Header extends Component{
                     <div className='container'>
                         <div className='row row-header'>
                             <div className ="col-12 col-sm-6">
-                                 <h1>WebApplication for Unorganised labourers</h1>
-                                 <p>AtmaBharat</p>
+                                 <h1>Nirbhar Jan</h1>
+                                 <p>Transparent and efficient website to connect employers to workers.</p>
                             </div>
                         </div>
                     </div>

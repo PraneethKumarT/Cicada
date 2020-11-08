@@ -12,7 +12,7 @@ export const addForm = (name, telnum, price, description) => (dispatch) => {
     };
     newFeedback.date = new Date().toISOString();
     
-    return fetch(baseUrl + 'feedback', {
+    return fetch(baseUrl , {
         method: "POST",
         body: JSON.stringify(newFeedback),
         headers: {
@@ -54,7 +54,7 @@ export const addcontractors = (contractors) => ({
 })
 
 export const fetchContractors = () => (dispatch) => {
-  return fetch(baseUrl + 'feedback')
+  return fetch(baseUrl)
   .then(response => {
       if(response.ok){
           return response;

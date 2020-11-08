@@ -134,6 +134,8 @@ function Worker(props) {
             <h1>Minimum Wage per Day : {parseFloat(jobInfo.minWage/30).toFixed(2)} </h1>
 
             <div>
+            <hr/>
+                <h3>Available Employers: </h3>
                 {contractors}
             </div>
         </div>

@@ -68,7 +68,7 @@ class CommentForm extends Component {
                                          />
                             </Col>
                             <Col className="form-group">
-                                <Label htmlFor="price">Price</Label>
+                                <Label htmlFor="price">Price per Month</Label>
                                     <Control.text model=".price" id="price" name="price"
                                         placeholder="Price"
                                         className="form-control"
@@ -191,6 +191,8 @@ function Employer(props) {
 
             <h1>Minimum Wage per Month : {parseFloat(jobInfo.minWage).toFixed(2)} </h1>
             <h1>Minimum Wage per Day : {parseFloat(jobInfo.minWage/30).toFixed(2)} </h1>
+            <hr/>
+            <h3>Employer Form: </h3>
 
             <CommentForm resetFeedbackForm = {props.resetFeedbackForm} addForm = {props.addForm} />
         </div>
