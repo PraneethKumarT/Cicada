@@ -1,6 +1,6 @@
 {
   "name": "cicada",
-  "homepage": "http://ieeeuvce.s3-website.ap-south-1.amazonaws.com",
+  "homepage": "http://PraneethKumarT.github.io/Cicada",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,7 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.5.3",
+    "gh-pages": "^3.1.0",
     "react": "^17.0.1",
     "react-animation-components": "^3.0.0",
     "react-bootstrap": "^1.4.0",
@@ -31,8 +32,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "server": "npx json-server --watch public/db.json--port=3001"
   },
   "eslintConfig": {
     "extends": [

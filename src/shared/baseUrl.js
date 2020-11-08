@@ -1,1 +1,1 @@
-export const baseUrl = 'https://ieeeuvce.s3.ap-south-1.amazonaws.com/db.json';
+export const baseUrl = 'https://my-json-server.typicode.com/PraneethKumarT/CicadaDb/feedback';
