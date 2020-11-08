@@ -6,17 +6,25 @@ import Home from './HomeComponent';
 import {TransitionGroup, CSSTransition} from 'react-transition-group';
 import Header from './Header';
 import {connect} from 'react-redux';
-import {addForm} from '../redux/ActionCreators';
+import {addForm, fetchContractors } from '../redux/ActionCreators';
 import {actions} from 'react-redux-form';
 
+const mapStateToProps = state =>{
+    return{
+        contractors : state.contractors
+    }
+}
 
 const mapDispatchToProps = dispatch => ({
     resetFeedbackForm : () => {dispatch(actions.reset('feedback'))},
-    addForm: (Id, name, telnum, price, description) => dispatch(addForm(Id, name, telnum, price, description))
-  
+    addForm: (Id, name, telnum, price, description) => dispatch(addForm(Id, name, telnum, price, description)),
+    fetchContractors: () => {dispatch(fetchContractors())}
   });
 
 class Main extends Component{
+    componentDidMount(){
+        this.props.fetchContractors();
+    }
 
     render() {
         return (
@@ -27,7 +35,9 @@ class Main extends Component{
                         <Switch>
                             <Route path="/home" component={Home} />
                             <Route exact path="/employer" component={() => <Employer resetFeedbackForm={this.props.resetFeedbackForm} addForm = {this.props.addForm} />} />
-                            <Route exact path="/worker" component={() => <Worker />} />
+                            <Route exact path="/worker" component={() => <Worker contractors = {this.props.contractors.contractors}
+                                                            isLoading = {this.props.contractors.isLoading}
+                                                           />} />
                             <Redirect to="/home/" />
                         </Switch>
                     </CSSTransition>
@@ -37,4 +47,4 @@ class Main extends Component{
     }
 }
 
-export default withRouter(connect(null, mapDispatchToProps)(Main));
+export default withRouter(connect(mapStateToProps, mapDispatchToProps)(Main));
